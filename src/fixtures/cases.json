@@ -1,0 +1,17 @@
+[
+ {"id":"college-2026a-q1","kind":"college","tag":"college","title":"חברת אלפא","source":"אונו מועד א' 11.2.2026, שאלה 1","year":2026,"session":"a","points":25,"topics":["fraud","quality"],
+  "background":"חברת **אלפא** בע\"מ מייצרת מוצרים.\n\n| שנה | הכנסות |\n|---|---|\n| 2024 | 1,000 |\n| 2025 | 1,200 |\n| סה\"כ | 2,200 |",
+  "parts":[{"label":"נדרש 1","points":6,"topic":"fraud","question":"מהם גורמי סיכון לתרמית? נמקו.","solution":"1. לחץ לעמוד ביעדים (סעיף A1).\n2. הזדמנות.","keyPoints":["לחץ","הזדמנות","הצדקה"]}]},
+ {"id":"council-2019-spring-q3","kind":"council","tag":"class","title":"בטא תעשיות","source":"בחינת מועצה אביב 2019, שאלה 3","year":2019,"session":"spring","points":14,"topics":["fraud","tax"],
+  "background":"רקע לשאלה. ה-<script>alert(1)</script> נבדק.",
+  "parts":[{"label":"נדרש 1","points":4,"topic":"fraud","question":"שאלה א","solution":"פתרון א","keyPoints":["נקודה 1","נקודה 2"]},
+           {"label":"נדרש 2","points":10,"topic":"tax","question":"שאלה ב","solution":"","keyPoints":[]}]},
+ {"id":"council-2021-summer-q1","kind":"council","tag":"submit","alsoMapped":"class","title":"גמא","source":"בחינת מועצה קיץ 2021, שאלה 1","year":2021,"session":"summer","points":20,"topics":["fraud"],
+  "background":"רקע גמא.","parts":[{"label":"נדרש","points":20,"topic":"fraud","question":"שאלה","solution":"פתרון","keyPoints":["א"]}]},
+ {"id":"council-2018-autumn-q2","kind":"council","tag":"homework","title":"דלתא","source":"בחינת מועצה סתיו 2018, שאלה 2","year":2018,"session":"autumn","points":10,"topics":["tax"],
+  "background":"רקע דלתא.","parts":[{"label":"נדרש","points":10,"topic":"tax","question":"שאלה","solution":"פתרון","keyPoints":[]}]},
+ {"id":"council-2016-winter-q4","kind":"council","tag":"missed","title":"אפסילון","source":"בחינת מועצה חורף 2016, שאלה 4","year":2016,"session":"winter","points":8,"topics":["tax"],
+  "background":"","parts":[{"label":"נדרש","points":8,"topic":"tax","question":"שאלה","solution":"פתרון","keyPoints":["ב"]}]},
+ {"id":"council-2020-spring-q9","kind":"council","tag":"missed","title":"יתומה","source":"בחינת מועצה אביב 2020, שאלה 9","year":2020,"session":"spring","topics":["governance"],
+  "background":"x","parts":[{"label":"נדרש","question":"q","solution":"s"}]}
+]

@@ -1,0 +1,7 @@
+[
+ {"row":"תרמית","topic":"fraud","refAsPrinted":"אביב 2019, שאלה 3","highlighted":true,"resolved":{"caseId":"council-2019-spring-q3"}},
+ {"row":"תרמית","topic":"fraud","refAsPrinted":"קיץ 2021, שאלה 1","highlighted":false,"resolved":{"caseId":"council-2021-summer-q1"}},
+ {"row":"תרמית","topic":"fraud","refAsPrinted":"קיץ 2012, שאלה 7","highlighted":false,"resolved":null},
+ {"row":"מיסים","topic":"tax","refAsPrinted":"סתיו 2018, שאלה 2","highlighted":true,"resolved":{"caseId":"council-2018-autumn-q2"}},
+ {"row":"מיסים","topic":"tax","refAsPrinted":"חורף 2099, שאלה 1","highlighted":false,"resolved":{"caseId":"no-such-case"}}
+]

@@ -1,0 +1,5 @@
+{
+ "id": "exam", "eyebrow": "פרק 10", "title": "הבחינה",
+ "lead": "מבנה הבחינה.",
+ "articles": [ {"id":"exam-format","code":"מבחן","title":"מבנה הבחינה","purpose":"מבנה.","summary":["פסקה."],"sources":["חוברת הקורס, עמ' 2"]} ]
+}

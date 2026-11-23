@@ -1,0 +1,1015 @@
+[
+ {
+  "topic": "internal",
+  "row": "חוק הביקורת הפנימית",
+  "refAsPrinted": "חורף 2021, שאלה 4, סעיף 5 + שאלה 8 סעיף 1",
+  "sessionLabelAsPrinted": "חורף 2021",
+  "year": 2021,
+  "question": 4,
+  "subItems": [
+   5
+  ],
+  "highlighted": true,
+  "additionalRefs": [
+   {
+    "question": 8,
+    "subItems": [
+     1
+    ],
+    "resolved": {
+     "file": "council_winter.txt",
+     "year": 2021,
+     "session": "autumn",
+     "caseId": "council-2021-autumn-q8"
+    },
+    "confidence": "high"
+   }
+  ],
+  "resolved": {
+   "file": "council_winter.txt",
+   "year": 2021,
+   "session": "autumn",
+   "caseId": "council-2021-autumn-q4"
+  },
+  "confidence": "high",
+  "note": "mapping label 'חורף 2021' = compilation label 'סתיו 2021' (exam date 2022-01-12; the compilation prints 'סתיו' for this session) | Q4 s5 in A2021: s5: מהם תפקידי המבקר הפנימי לפי חוק הביקורת הפנימית (התשנ\"ב – 1992)? [solution keyword hits (sub-item): הביקורת הפנימית] | Q8 s1 in A2021: s1: האם חוק הביקורת הפנימית (התשנ\"ב - 1992 מחייב מבקר פנימי של חברה ציבורית בישראל?) [solution keyword hits (sub-item): הביקורת הפנימית] | adjacent sessions tested and rejected (content/topic mismatch): סתיו 2020, סתיו 2022"
+ },
+ {
+  "topic": "internal",
+  "row": "חוק הביקורת הפנימית",
+  "refAsPrinted": "אביב 2020, שאלה 8, סעיף 8",
+  "sessionLabelAsPrinted": "אביב 2020",
+  "year": 2020,
+  "question": 8,
+  "subItems": [
+   8
+  ],
+  "highlighted": true,
+  "resolved": {
+   "file": "council_spring.txt",
+   "year": 2020,
+   "session": "spring",
+   "caseId": "council-2020-spring-q8"
+  },
+  "confidence": "high",
+  "note": "mapping label 'אביב 2020' = printed label 'אביב 2020' (exam date 2020-08-24) | Q8 s8 in P2020: s8: מה הם תנאי הסף הנדרשים כדי שאדם יוכל להתמנות כמבקר פנ ים על פי חוק הביקורת הפנימית (התשנ\"ב – 1992.) [solution keyword hits (sub-item): ביקורת פנימית, הביקורת הפנימית]"
+ },
+ {
+  "topic": "internal",
+  "row": "חוק הביקורת הפנימית",
+  "refAsPrinted": "חורף 2017, שאלה 10, סעיף 9",
+  "sessionLabelAsPrinted": "חורף 2017",
+  "year": 2017,
+  "question": 10,
+  "subItems": [
+   9
+  ],
+  "highlighted": false,
+  "resolved": {
+   "file": "council_winter.txt",
+   "year": 2017,
+   "session": "autumn",
+   "caseId": "council-2017-autumn-q10"
+  },
+  "confidence": "high",
+  "note": "mapping label 'חורף 2017' = compilation label 'סתיו 2017' (exam date 2018-01-15; the compilation prints 'סתיו' for this session) | Q10 s9 in A2017: s9: מה הם תנאי הסף הנדרשים כדי שאדם יוכל להתמנות כמבקר פנים על פי חוק הביקורת הפנימית (התשנ\"ב – 1992.) [solution keyword hits (sub-item): ביקורת פנימית, הביקורת הפנימית] | adjacent sessions tested and rejected (content/topic mismatch): חורף 2016, סתיו 2018"
+ },
+ {
+  "topic": "quality",
+  "row": "תקן 1 ותקן 220 (בקרת איכות)",
+  "refAsPrinted": "סתיו 2025, שאלה 6, סעיף 7",
+  "sessionLabelAsPrinted": "סתיו 2025",
+  "year": 2025,
+  "question": 6,
+  "subItems": [
+   7
+  ],
+  "highlighted": true,
+  "resolved": {
+   "file": "council_winter.txt",
+   "year": 2025,
+   "session": "autumn",
+   "caseId": "council-2025-autumn-q6"
+  },
+  "confidence": "high",
+  "note": "mapping label 'סתיו 2025' = printed label 'סתיו 2025' (exam date 2026-01-18) | Q6 s7 in A2025: s7: פרט וה סבר האם יש שוני במדיניות ונהלים של בקרת איכות שפירמות רואי חשבון חייבות לקבוע לגבי התקשרויות עם חברות פ [solution keyword hits (sub-item): 220, בקרת איכות, תקן בקרת איכות] | adjacent sessions tested and rejected (content/topic mismatch): סתיו 2024"
+ },
+ {
+  "topic": "quality",
+  "row": "תקן 1 ותקן 220 (בקרת איכות)",
+  "refAsPrinted": "אביב 2025, שאלה 3, סעיף 3",
+  "sessionLabelAsPrinted": "אביב 2025",
+  "year": 2025,
+  "question": 3,
+  "subItems": [
+   3
+  ],
+  "highlighted": true,
+  "resolved": {
+   "file": "council_spring.txt",
+   "year": 2025,
+   "session": "spring",
+   "caseId": "council-2025-spring-q3"
+  },
+  "confidence": "high",
+  "note": "mapping label 'אביב 2025' = printed label 'אביב 2025' (exam date 2025-08-31) | Q3 s3 in P2025: s3: פרט והסבר מה הם הרכיבים של מערכת בק רת איכות שעל פירמות רואי חשבון בישראל המעניקה שירותי ביקורת להקים ולתחזק? [solution keyword hits (sub-item): בקרת איכות, תקן בקרת איכות]"
+ },
+ {
+  "topic": "quality",
+  "row": "תקן 1 ותקן 220 (בקרת איכות)",
+  "refAsPrinted": "חורף 2024, שאלה 6, סעיף 8",
+  "sessionLabelAsPrinted": "חורף 2024",
+  "year": 2024,
+  "question": 6,
+  "subItems": [
+   8
+  ],
+  "highlighted": true,
+  "resolved": {
+   "file": "council_winter.txt",
+   "year": 2024,
+   "session": "autumn",
+   "caseId": "council-2024-autumn-q6"
+  },
+  "confidence": "high",
+  "note": "mapping label 'חורף 2024' = compilation label 'סתיו 2024' (exam date 2025-01-23; the compilation prints 'סתיו' for this session) | Q6 s8 in A2024: s8: כיצד על צוות ההתקשרות לנהוג אם מתגלעים חילוקי דעות בין שותף ההתקשרות לסוקר בקרת איכות ההתקשרות? [solution keyword hits (sub-item): 220, בקרת איכות, תקן בקרת איכות] | adjacent sessions tested and rejected (content/topic mismatch): סתיו 2023, סתיו 2025"
+ },
+ {
+  "topic": "quality",
+  "row": "תקן 1 ותקן 220 (בקרת איכות)",
+  "refAsPrinted": "אביב 2024, שאלה 6, סעיף 7",
+  "sessionLabelAsPrinted": "אביב 2024",
+  "year": 2024,
+  "question": 6,
+  "subItems": [
+   7
+  ],
+  "highlighted": true,
+  "resolved": {
+   "file": "council_spring.txt",
+   "year": 2024,
+   "session": "spring",
+   "caseId": "council-2024-spring-q6"
+  },
+  "confidence": "high",
+  "note": "mapping label 'אביב 2024' = printed label 'אביב 2024' (exam date 2024-09-09) | Q6 s7 in P2024: s7: מה הן חובותיו של שותף ההתקשרות בקשר לסקירת בקרת איכות התקשרות לביקורת הדוחות הכספיים של חברה ציבורית? [solution keyword hits (sub-item): 220, בקרת איכות] | adjacent sessions tested and rejected (content/topic mismatch): מיוחד 2024"
+ },
+ {
+  "topic": "quality",
+  "row": "תקן 1 ותקן 220 (בקרת איכות)",
+  "refAsPrinted": "אביב 2022, שאלה 5",
+  "sessionLabelAsPrinted": "אביב 2022",
+  "year": 2022,
+  "question": 5,
+  "subItems": null,
+  "highlighted": true,
+  "resolved": {
+   "file": "council_spring.txt",
+   "year": 2022,
+   "session": "spring",
+   "caseId": "council-2022-spring-q5"
+  },
+  "confidence": "high",
+  "note": "mapping label 'אביב 2022' = printed label 'אביב 2022' (exam date 2022-08-17) | Q5 in P2022: בקרת איכות [solution keyword hits (question): 220, בקרת איכות, תקן בקרת איכות]"
+ },
+ {
+  "topic": "quality",
+  "row": "תקן 1 ותקן 220 (בקרת איכות)",
+  "refAsPrinted": "חורף 2022, שאלה 8, סעיף 2, 6",
+  "sessionLabelAsPrinted": "חורף 2022",
+  "year": 2022,
+  "question": 8,
+  "subItems": [
+   2,
+   6
+  ],
+  "highlighted": false,
+  "resolved": {
+   "file": "council_winter.txt",
+   "year": 2022,
+   "session": "autumn",
+   "caseId": "council-2022-autumn-q8"
+  },
+  "confidence": "high",
+  "note": "mapping label 'חורף 2022' = compilation label 'סתיו 2022' (exam date 2023-01-12; the compilation prints 'סתיו' for this session) | Q8 s2,6 in A2022: s2: האם צוותי התקשרות המבצעים ביקורת דוחות כספיים רשאים להסתמך על מערכת בקרת האיכות של הפירמה ש בה הם מועסקים? | s6: מה הם הרכיבים בעבודת פירמת רואי חשבון שלגביהם נדרשת הפירמה להקים ולתחזק מדיניות ונהלים במערכת בקרת איכות? [solution keyword hits (sub-item): 220, בקרת איכות, תקן בקרת איכות] | adjacent sessions tested and rejected (content/topic mismatch): סתיו 2021, סתיו 2023"
+ },
+ {
+  "topic": "quality",
+  "row": "תקן 1 ותקן 220 (בקרת איכות)",
+  "refAsPrinted": "חורף 2020, שאלה 4, סעיף 1",
+  "sessionLabelAsPrinted": "חורף 2020",
+  "year": 2020,
+  "question": 4,
+  "subItems": [
+   1
+  ],
+  "highlighted": false,
+  "resolved": {
+   "file": "council_winter.txt",
+   "year": 2020,
+   "session": "autumn",
+   "caseId": "council-2020-autumn-q4"
+  },
+  "confidence": "high",
+  "note": "mapping label 'חורף 2020' = compilation label 'סתיו 2020' (exam date 2021-01-07; the compilation prints 'סתיו' for this session) | Q4 s1 in A2020: s1: פרט בגין אילו נושאים חייב משרד רואה חשבון מבקר לקבוע נהלים פנימיים לבקרת איכות במשרדו. [solution keyword hits (sub-item): בקרת איכות, תקן בקרת איכות] | adjacent sessions tested and rejected (content/topic mismatch): סתיו 2019, סתיו 2021"
+ },
+ {
+  "topic": "quality",
+  "row": "תקן 1 ותקן 220 (בקרת איכות)",
+  "refAsPrinted": "אביב 2019, שאלה 8, סעיף 4",
+  "sessionLabelAsPrinted": "אביב 2019",
+  "year": 2019,
+  "question": 8,
+  "subItems": [
+   4
+  ],
+  "highlighted": false,
+  "resolved": {
+   "file": "council_spring.txt",
+   "year": 2019,
+   "session": "spring",
+   "caseId": "council-2019-spring-q8"
+  },
+  "confidence": "high",
+  "note": "mapping label 'אביב 2019' = printed label 'אביב 2019' (exam date 2019-08-08) | Q8 s4 in P2019: s4: פרט והסבר מה על רואה חשבון לנהוג לפני שהוא מכין ומגיש דוח אישי שנתי למס הכנסה של לקוח שהוא לא פגש מעולם. [solution keyword hits (sub-item): בקרת איכות, תקן ביקורת 67] | Official solution to s4 cites תקן ביקורת 67 (the pre-codification number of the quality-control standard), clause 9, on accepting new clients; i.e. it matches the row although the sub-item reads like tax practice."
+ },
+ {
+  "topic": "quality",
+  "row": "תקן 1 ותקן 220 (בקרת איכות)",
+  "refAsPrinted": "חורף 2018, שאלה 8, סעיף 5",
+  "sessionLabelAsPrinted": "חורף 2018",
+  "year": 2018,
+  "question": 8,
+  "subItems": [
+   5
+  ],
+  "highlighted": false,
+  "resolved": {
+   "file": "council_winter.txt",
+   "year": 2018,
+   "session": "autumn",
+   "caseId": "council-2018-autumn-q8"
+  },
+  "confidence": "high",
+  "note": "mapping label 'חורף 2018' = compilation label 'סתיו 2018' (exam date 2019-01-07; the compilation prints 'סתיו' for this session) | Q8 s5 in A2018: s5: פרט בגין אילו נושאים חייב משרד רואה חשבון מבקר לקבוע נהלים פנימיים לבקרת איכות במשרדו. [solution keyword hits (sub-item): בקרת איכות, תקן ביקורת 67] | adjacent sessions tested and rejected (content/topic mismatch): סתיו 2017, סתיו 2019"
+ },
+ {
+  "topic": "quality",
+  "row": "תקן 1 ותקן 220 (בקרת איכות)",
+  "refAsPrinted": "חורף 2017, שאלה 5, סעיף 2",
+  "sessionLabelAsPrinted": "חורף 2017",
+  "year": 2017,
+  "question": 5,
+  "subItems": [
+   2
+  ],
+  "highlighted": false,
+  "resolved": {
+   "file": "council_winter.txt",
+   "year": 2017,
+   "session": "autumn",
+   "caseId": "council-2017-autumn-q5"
+  },
+  "confidence": "high",
+  "note": "mapping label 'חורף 2017' = compilation label 'סתיו 2017' (exam date 2018-01-15; the compilation prints 'סתיו' for this session) | Q5 s2 in A2017: s2: אילו נהלים יקבע משרד רואי חשבון מבקר המעסיק מעל 1,000 עובדים כדי לגרום לכך שעובדי המשרד יהיו מודע ים לכללים בד [solution keyword hits (sub-item): בקרת איכות, תקן ביקורת 67] | adjacent sessions tested and rejected (content/topic mismatch): חורף 2016, סתיו 2018 | Official solution to s2 cites תקן ביקורת 67 (quality control in CPA firms), clause 11, on firm rules for making staff aware of independence rules."
+ },
+ {
+  "topic": "fraud",
+  "row": "תקן 240 (תרמיות)",
+  "refAsPrinted": "סתיו 2025, שאלה 4",
+  "sessionLabelAsPrinted": "סתיו 2025",
+  "year": 2025,
+  "question": 4,
+  "subItems": null,
+  "highlighted": true,
+  "resolved": {
+   "file": "council_winter.txt",
+   "year": 2025,
+   "session": "autumn",
+   "caseId": "council-2025-autumn-q4"
+  },
+  "confidence": "high",
+  "note": "mapping label 'סתיו 2025' = printed label 'סתיו 2025' (exam date 2026-01-18) | Q4 in A2025: הונאות ותרמיות [solution keyword hits (question): 240, מירמה, תרמית] | adjacent sessions tested and rejected (content/topic mismatch): סתיו 2024"
+ },
+ {
+  "topic": "fraud",
+  "row": "תקן 240 (תרמיות)",
+  "refAsPrinted": "חורף 2024, שאלה 3, סעיף 5, 6",
+  "sessionLabelAsPrinted": "חורף 2024",
+  "year": 2024,
+  "question": 3,
+  "subItems": [
+   5,
+   6
+  ],
+  "highlighted": true,
+  "resolved": {
+   "file": "council_winter.txt",
+   "year": 2024,
+   "session": "autumn",
+   "caseId": "council-2024-autumn-q3"
+  },
+  "confidence": "high",
+  "note": "mapping label 'חורף 2024' = compilation label 'סתיו 2024' (exam date 2025-01-23; the compilation prints 'סתיו' for this session) | Q3 s5,6 in A2024: s5: מי הם הגורמים בגוף המבוקר שעל רואה החשבון המבקר לערוך בירורים איתם בכדי לקבוע אם יש להם ידע אודות תרמית בפועל, | s6: פרט והסבר האם ובאיזה אופן ביצוע נהלים אנליטיים על ידי רואה החשבון המבקר עשוי לסייע בזיהוי סיכונים המתייחסים לה [solution keyword hits (sub-item): 240, תרמית] | adjacent sessions tested and rejected (content/topic mismatch): סתיו 2023, סתיו 2025"
+ },
+ {
+  "topic": "fraud",
+  "row": "תקן 240 (תרמיות)",
+  "refAsPrinted": "אביב 2024, שאלה 3, סעיף 3",
+  "sessionLabelAsPrinted": "אביב 2024",
+  "year": 2024,
+  "question": 3,
+  "subItems": [
+   3
+  ],
+  "highlighted": true,
+  "resolved": {
+   "file": "council_spring.txt",
+   "year": 2024,
+   "session": "spring",
+   "caseId": "council-2024-spring-q3"
+  },
+  "confidence": "high",
+  "note": "mapping label 'אביב 2024' = printed label 'אביב 2024' (exam date 2024-09-09) | Q3 s3 in P2024: s3: הבא 3 דוגמאות לגורמים שעל רואה החשבון המבקר לשקול כאשר הוא פועל להבין את הצידוק העסקי שבבסיס עסקאות משמעותיות  [solution keyword hits (sub-item): 240, תרמית] | adjacent sessions tested and rejected (content/topic mismatch): מיוחד 2024 | Official solution cites תקן ביקורת 240, clause 82 (business rationale of significant transactions outside the normal course)."
+ },
+ {
+  "topic": "fraud",
+  "row": "תקן 240 (תרמיות)",
+  "refAsPrinted": "מיוחד 2024 שאלה 5",
+  "sessionLabelAsPrinted": "מיוחד 2024",
+  "year": 2024,
+  "question": 5,
+  "subItems": null,
+  "highlighted": true,
+  "resolved": {
+   "file": "council_spring.txt",
+   "year": 2024,
+   "session": "special",
+   "caseId": "council-2024-special-q5"
+  },
+  "confidence": "high",
+  "note": "mapping label 'מיוחד 2024' = printed label 'מיוחד 2024' (exam date 2024-06-23) | Q5 in X2024: הונאות ותרמיות [solution keyword hits (question): 240, תרמית]"
+ },
+ {
+  "topic": "fraud",
+  "row": "תקן 240 (תרמיות)",
+  "refAsPrinted": "אביב 2022, שאלה 4, סעיף 7",
+  "sessionLabelAsPrinted": "אביב 2022",
+  "year": 2022,
+  "question": 4,
+  "subItems": [
+   7
+  ],
+  "highlighted": true,
+  "resolved": {
+   "file": "council_spring.txt",
+   "year": 2022,
+   "session": "spring",
+   "caseId": "council-2022-spring-q4"
+  },
+  "confidence": "low",
+  "note": "mapping label 'אביב 2022' = printed label 'אביב 2022' (exam date 2022-08-17) | Q4 s7 in P2022: s7: הסבר את המושג \"ניהול רווחים\"\" (MANAGE EARNINGS) ואת הקשרו לביקורת של דוחות כספיים. [no topic keyword in solution (sub-item)] | Topic match is judged, not cited: the official solution to s7 defines earnings management (intentional manipulation of reporting to mislead users) and never cites תקן 240 by number in that sub-item."
+ },
+ {
+  "topic": "fraud",
+  "row": "תקן 240 (תרמיות)",
+  "refAsPrinted": "חורף 2021, שאלה 8, סעיף 3",
+  "sessionLabelAsPrinted": "חורף 2021",
+  "year": 2021,
+  "question": 8,
+  "subItems": [
+   3
+  ],
+  "highlighted": false,
+  "resolved": null,
+  "confidence": "low",
+  "unresolvedReason": "topic-mismatch",
+  "candidateIfLecturerIsRight": {
+   "file": "council_winter.txt",
+   "year": 2021,
+   "session": "autumn",
+   "caseId": "council-2021-autumn-q8"
+  },
+  "note": "mapping label 'חורף 2021' = compilation label 'סתיו 2021' (exam date 2022-01-12; the compilation prints 'סתיו' for this session) | Q8 s3 in A2021: s3: פרט את המטלות שעל רואה החשבון לבצע בעת קבלת לקוח חדש בהקשר לצו איסור הלבנת הון (חובת זיהוי, דיווח וניה ול רישו [no topic keyword in solution (sub-item)] | adjacent sessions tested and rejected (content/topic mismatch): סתיו 2020, סתיו 2022 | Session and number are unambiguous but the content does not match the row: A2021 Q8 s3 is about the CPA's duties on accepting a new client under the anti-money-laundering order (צו איסור הלבנת הון), not about fraud/תקן 240. The same AML sub-item appears under the 'תקן 250' row in entries for סתיו 2020 and חורף 2017. No adjacent session (A2020, A2022) has a fraud-related s3 either."
+ },
+ {
+  "topic": "fraud",
+  "row": "תקן 240 (תרמיות)",
+  "refAsPrinted": "חורף 2018, שאלה 4, סעיף 4",
+  "sessionLabelAsPrinted": "חורף 2018",
+  "year": 2018,
+  "question": 4,
+  "subItems": [
+   4
+  ],
+  "highlighted": false,
+  "resolved": {
+   "file": "council_winter.txt",
+   "year": 2018,
+   "session": "autumn",
+   "caseId": "council-2018-autumn-q4"
+  },
+  "confidence": "high",
+  "note": "mapping label 'חורף 2018' = compilation label 'סתיו 2018' (exam date 2019-01-07; the compilation prints 'סתיו' for this session) | Q4 s4 in A2018: s4: כיצד על רואה הח שבון מבקר לפעול, כאשר מתעוררים אצלו חששות לגבי הכשירות והיושרה של הדירקטוריון של החברה אותה הו [solution keyword hits (sub-item): 92, תרמית] | adjacent sessions tested and rejected (content/topic mismatch): סתיו 2017, סתיו 2019 | Official solution to s4 cites תקן ביקורת 92 (pre-codification number of the fraud standard; 'אחריות המבקר לשקול אפשרות קיומה של תרמית'), clauses 97, 103, 104."
+ },
+ {
+  "topic": "fraud",
+  "row": "תקן 240 (תרמיות)",
+  "refAsPrinted": "אביב 2016, שאלה 4",
+  "sessionLabelAsPrinted": "אביב 2016",
+  "year": 2016,
+  "question": 4,
+  "subItems": null,
+  "highlighted": false,
+  "resolved": {
+   "file": "council_spring.txt",
+   "year": 2016,
+   "session": "summer",
+   "caseId": "council-2016-summer-q4"
+  },
+  "confidence": "medium",
+  "note": "mapping label 'אביב 2016' = compilation label 'קיץ 2016' (exam date 2016-08-04; the compilation prints 'קיץ' for this session) | Q4 in U2016: השלכות על תהליך הביקורת של התנהלות חריגה של הגוף המבוקר ובעלי שליטה בו [solution keyword hits (question): תרמית] | Old-numbering official solution cites the standard on 'אחריות המבקר לשקול אפשרות קיומה של תרמית' (digits garbled in the text layer); question concerns abnormal conduct of the audited entity and its controlling owner (director's family perks, customer deposits not used)."
+ },
+ {
+  "topic": "fraud",
+  "row": "תקן 240 (תרמיות)",
+  "refAsPrinted": "אביב 2015, שאלה 7",
+  "sessionLabelAsPrinted": "אביב 2015",
+  "year": 2015,
+  "question": 7,
+  "subItems": null,
+  "highlighted": false,
+  "resolved": {
+   "file": "council_spring.txt",
+   "year": 2015,
+   "session": "summer",
+   "caseId": "council-2015-summer-q7"
+  },
+  "confidence": "high",
+  "note": "mapping label 'אביב 2015' = compilation label 'קיץ 2015' (exam date 2015-08-05; the compilation prints 'קיץ' for this session) | Q7 in U2015: הונאות וביקורת חקירתית [solution keyword hits (question): הונאה]"
+ },
+ {
+  "topic": "laws",
+  "row": "תקן 250 (הוראות חוק ורגולציה)",
+  "refAsPrinted": "סתיו 2025, שאלה 6, סעיף 1, סעיף 4",
+  "sessionLabelAsPrinted": "סתיו 2025",
+  "year": 2025,
+  "question": 6,
+  "subItems": [
+   1,
+   4
+  ],
+  "highlighted": true,
+  "resolved": {
+   "file": "council_winter.txt",
+   "year": 2025,
+   "session": "autumn",
+   "caseId": "council-2025-autumn-q6"
+  },
+  "confidence": "high",
+  "note": "mapping label 'סתיו 2025' = printed label 'סתיו 2025' (exam date 2026-01-18) | Q6 s1,4 in A2025: s1: כיצד על רואה חשבון מבקר לפעול, בהתאם לתקני הביקורת המקובלים, כאשר הוא חושד כי חברה בתחום המזון, שאותה הוא מבקר | s4: פרט והסבר מ דוע ההשפעה האפשרית של המגבלות המובנות הקיימות בביקורת על יכולתו של רואה החשבון המבקר לזהות הצגות מ [solution keyword hits (sub-item): 250, הוראות חוק, רגולציה] | adjacent sessions tested and rejected (content/topic mismatch): סתיו 2024"
+ },
+ {
+  "topic": "laws",
+  "row": "תקן 250 (הוראות חוק ורגולציה)",
+  "refAsPrinted": "חורף 2024, שאלה 3, סעיף 2",
+  "sessionLabelAsPrinted": "חורף 2024",
+  "year": 2024,
+  "question": 3,
+  "subItems": [
+   2
+  ],
+  "highlighted": true,
+  "resolved": {
+   "file": "council_winter.txt",
+   "year": 2024,
+   "session": "autumn",
+   "caseId": "council-2024-autumn-q3"
+  },
+  "confidence": "high",
+  "note": "mapping label 'חורף 2024' = compilation label 'סתיו 2024' (exam date 2025-01-23; the compilation prints 'סתיו' for this session) | Q3 s2 in A2024: s2: פרט והסבר האם רואה החשבון המבקר מסוגל לקבוע אם פעולה מסוימת של חברה המבוקרת על ידו מהווה אי קיום הורא ו ת חוק  [solution keyword hits (sub-item): 250, הוראות חוק, רגולציה] | adjacent sessions tested and rejected (content/topic mismatch): סתיו 2023, סתיו 2025"
+ },
+ {
+  "topic": "laws",
+  "row": "תקן 250 (הוראות חוק ורגולציה)",
+  "refAsPrinted": "אביב 2022, שאלה 6",
+  "sessionLabelAsPrinted": "אביב 2022",
+  "year": 2022,
+  "question": 6,
+  "subItems": null,
+  "highlighted": true,
+  "resolved": null,
+  "confidence": "low",
+  "unresolvedReason": "topic-mismatch",
+  "candidateIfLecturerIsRight": {
+   "file": "council_spring.txt",
+   "year": 2022,
+   "session": "spring",
+   "caseId": "council-2022-spring-q6"
+  },
+  "note": "mapping label 'אביב 2022' = printed label 'אביב 2022' (exam date 2022-08-17) | Q6 in P2022: הונאות ותרמיות [solution keyword hits (question): הוראות חוק, רגולציה] | Session and number are unambiguous (P2022 Q6) but the content does not match the row: the TOC title is 'הונאות ותרמיות' and the case is about related-party loans/purchases/commission and a possible diversion of a bank loan; the official solution cites תקן 550 (related parties) and תקן 240, and mentions 'הוראות חוק ורגולציה' only inside quotes from תקן 240. It is not a תקן 250 question. Same session's Q4 s7 (ניהול רווחים) is listed by the lecturer under the fraud row."
+ },
+ {
+  "topic": "laws",
+  "row": "תקן 250 (הוראות חוק ורגולציה)",
+  "refAsPrinted": "סתיו 2020, שאלה 3 + שאלה 4, סעיף 6 + שאלה 8 סעיף 1",
+  "sessionLabelAsPrinted": "סתיו 2020",
+  "year": 2020,
+  "question": 3,
+  "subItems": null,
+  "highlighted": true,
+  "additionalRefs": [
+   {
+    "question": 4,
+    "subItems": [
+     6
+    ],
+    "resolved": {
+     "file": "council_winter.txt",
+     "year": 2020,
+     "session": "autumn",
+     "caseId": "council-2020-autumn-q4"
+    },
+    "confidence": "medium"
+   },
+   {
+    "question": 8,
+    "subItems": [
+     1
+    ],
+    "resolved": {
+     "file": "council_winter.txt",
+     "year": 2020,
+     "session": "autumn",
+     "caseId": "council-2020-autumn-q8"
+    },
+    "confidence": "medium"
+   }
+  ],
+  "resolved": {
+   "file": "council_winter.txt",
+   "year": 2020,
+   "session": "autumn",
+   "caseId": "council-2020-autumn-q3"
+  },
+  "confidence": "medium",
+  "note": "mapping label 'סתיו 2020' = printed label 'סתיו 2020' (exam date 2021-01-07) | Q3 in A2020: התייחסות להוראות חוק ורגולציה בביקורת [solution keyword hits (question): 250, הוראות חוק, חוק, רגולציה, תקנות] | Q4 s6 in A2020: s6: פרט את הפעולות שעל רואה החשבון לבצע בעת קבלת לקוח חדש בהקשר לצו איסור הלבנת הון (חובת זיהוי, ניהול רישומים של  [solution keyword hits (sub-item): הלבנת הון, תקנות] | Q8 s1 in A2020: s1: האם רשאי רואה חשבון מבקר לאשר, לבקשת חברה המבוקרת על ידו, כי החברה מקיימת את הוראות דיני העבודה החלים על יה בק [solution keyword hits (sub-item): הוראות חוק] | adjacent sessions tested and rejected (content/topic mismatch): סתיו 2019, סתיו 2021 | Q3 is the TOC question 'התייחסות להוראות חוק ורגולציה בביקורת'. Q4 s6 is the AML-order sub-item and Q8 s1 concerns labour-law compliance; both are treated as laws-and-regulations content (the AML-order sub-item is also listed under this row in the entry for חורף 2017)."
+ },
+ {
+  "topic": "laws",
+  "row": "תקן 250 (הוראות חוק ורגולציה)",
+  "refAsPrinted": "סתיו 2018, שאלה 3 + שאלה 4, סעיף 2",
+  "sessionLabelAsPrinted": "סתיו 2018",
+  "year": 2018,
+  "question": 3,
+  "subItems": null,
+  "highlighted": false,
+  "additionalRefs": [
+   {
+    "question": 4,
+    "subItems": [
+     2
+    ],
+    "resolved": {
+     "file": "council_winter.txt",
+     "year": 2018,
+     "session": "autumn",
+     "caseId": "council-2018-autumn-q4"
+    },
+    "confidence": "medium"
+   }
+  ],
+  "resolved": null,
+  "confidence": "low",
+  "unresolvedReason": "topic-mismatch",
+  "candidateIfLecturerIsRight": {
+   "file": "council_winter.txt",
+   "year": 2018,
+   "session": "autumn",
+   "caseId": "council-2018-autumn-q3"
+  },
+  "note": "mapping label 'סתיו 2018' = printed label 'סתיו 2018' (exam date 2019-01-07) | Q3 in A2018: הערכת ההשפעה של הצגות מוטעות שזוהו במהלך הביקורת [no topic keyword in solution (question)] | Q4 s2 in A2018: s2: כיצד על רואה חשבון מבקר לפעול, בהתאם לתקני הביקורת המקובלים, כאשר הוא חושד כי חברה בתחום המזון, שאותה הוא מבקר [solution keyword hits (sub-item): הוראות חוק, רגולציה] | adjacent sessions tested and rejected (content/topic mismatch): סתיו 2017, סתיו 2019 | Only the second reference verifies. A2018 Q4 s2 (CPA suspects a food company violates law) is a תקן 250 item. A2018 Q3 (sampling/estimated misstatements, 'הערכת ההשפעה של הצגות מוטעות') has nothing to do with laws and regulations, and no adjacent session has a laws question at Q3 (A2017 Q3 = management override of controls; A2019 Q3 = new accounting standard). The top-level ref (Q3) is therefore unresolved; see additionalRefs[0]."
+ },
+ {
+  "topic": "laws",
+  "row": "תקן 250 (הוראות חוק ורגולציה)",
+  "refAsPrinted": "חורף 2017, שאלה 5, סעיף 4",
+  "sessionLabelAsPrinted": "חורף 2017",
+  "year": 2017,
+  "question": 5,
+  "subItems": [
+   4
+  ],
+  "highlighted": false,
+  "resolved": {
+   "file": "council_winter.txt",
+   "year": 2017,
+   "session": "autumn",
+   "caseId": "council-2017-autumn-q5"
+  },
+  "confidence": "medium",
+  "note": "mapping label 'חורף 2017' = compilation label 'סתיו 2017' (exam date 2018-01-15; the compilation prints 'סתיו' for this session) | Q5 s4 in A2017: s4: פרט את המטלות שעל רואה החשבון לבצע בעת קבלת לקוח חדש בהקשר לצו איסור הלבנת הון (חובת זיהוי, דיווח וניהול רישומ [solution keyword hits (sub-item): הלבנת הון] | adjacent sessions tested and rejected (content/topic mismatch): חורף 2016, סתיו 2018 | s4 is the AML-order sub-item (same text as A2020 Q4 s6); treated as laws-and-regulations content, consistent with the lecturer's classification elsewhere in this row."
+ },
+ {
+  "topic": "laws",
+  "row": "תקן 250 (הוראות חוק ורגולציה)",
+  "refAsPrinted": "סתיו 2015, שאלה 2",
+  "sessionLabelAsPrinted": "סתיו 2015",
+  "year": 2015,
+  "question": 2,
+  "subItems": null,
+  "highlighted": false,
+  "resolved": {
+   "file": "council_winter.txt",
+   "year": 2015,
+   "session": "winter",
+   "caseId": "council-2015-winter-q2"
+  },
+  "confidence": "high",
+  "note": "mapping label 'סתיו 2015' = compilation label 'חורף 2015' (exam date 2016-01-06; the compilation prints 'חורף' for this session) | Q2 in W2015: שמירה על חוקים ותקנות [solution keyword hits (question): 250, הוראות חוק, הלבנת הון, חוק, תקנות] | adjacent sessions tested and rejected (content/topic mismatch): חורף 2016"
+ },
+ {
+  "topic": "estimates",
+  "row": "תקן 540 (אומדנים)",
+  "refAsPrinted": "אביב 2019, שאלה 2",
+  "sessionLabelAsPrinted": "אביב 2019",
+  "year": 2019,
+  "question": 2,
+  "subItems": null,
+  "highlighted": true,
+  "resolved": {
+   "file": "council_spring.txt",
+   "year": 2019,
+   "session": "spring",
+   "caseId": "council-2019-spring-q2"
+  },
+  "confidence": "high",
+  "note": "mapping label 'אביב 2019' = printed label 'אביב 2019' (exam date 2019-08-08) | Q2 in P2019: ביקורת אומדנים בחשבונאות ואחריותו החוקית של רואה החשבון [solution keyword hits (question): אומדן, אומדנים]"
+ },
+ {
+  "topic": "fairvalue",
+  "row": "תקן 545 (מדידה וגילוי של שווי הוגן)",
+  "refAsPrinted": "חורף 2021, שאלה 4, סעיף 8",
+  "sessionLabelAsPrinted": "חורף 2021",
+  "year": 2021,
+  "question": 4,
+  "subItems": [
+   8
+  ],
+  "highlighted": true,
+  "resolved": {
+   "file": "council_winter.txt",
+   "year": 2021,
+   "session": "autumn",
+   "caseId": "council-2021-autumn-q4"
+  },
+  "confidence": "medium",
+  "note": "mapping label 'חורף 2021' = compilation label 'סתיו 2021' (exam date 2022-01-12; the compilation prints 'סתיו' for this session) | Q4 s8 in A2021: s8: האם קביעת שווי של חברת הזנק שאין לה הכנסות על סמך שי טת תזרימי מזומנים מנוכים (DCF הינה סבירה?) [solution keyword hits (sub-item): 545, שווי הוגן] | adjacent sessions tested and rejected (content/topic mismatch): סתיו 2020, סתיו 2022 | s8 asks whether valuing a start-up with no revenue by DCF is reasonable (valuation/fair-value content)."
+ },
+ {
+  "topic": "fairvalue",
+  "row": "תקן 545 (מדידה וגילוי של שווי הוגן)",
+  "refAsPrinted": "סתיו 2019, שאלה 2",
+  "sessionLabelAsPrinted": "סתיו 2019",
+  "year": 2019,
+  "question": 2,
+  "subItems": null,
+  "highlighted": true,
+  "resolved": {
+   "file": "council_winter.txt",
+   "year": 2019,
+   "session": "autumn",
+   "caseId": "council-2019-autumn-q2"
+  },
+  "confidence": "high",
+  "note": "mapping label 'סתיו 2019' = printed label 'סתיו 2019' (exam date 2020-01-09) | Q2 in A2019: ביקורת המדידה של שווי הוגן [solution keyword hits (question): 545, הערכת שווי, שווי הוגן] | adjacent sessions tested and rejected (content/topic mismatch): סתיו 2018, סתיו 2020"
+ },
+ {
+  "topic": "fairvalue",
+  "row": "תקן 545 (מדידה וגילוי של שווי הוגן)",
+  "refAsPrinted": "חורף 2018, שאלה 8, סעיף 8",
+  "sessionLabelAsPrinted": "חורף 2018",
+  "year": 2018,
+  "question": 8,
+  "subItems": [
+   8
+  ],
+  "highlighted": false,
+  "resolved": {
+   "file": "council_winter.txt",
+   "year": 2018,
+   "session": "autumn",
+   "caseId": "council-2018-autumn-q8"
+  },
+  "confidence": "medium",
+  "note": "mapping label 'חורף 2018' = compilation label 'סתיו 2018' (exam date 2019-01-07; the compilation prints 'סתיו' for this session) | Q8 s8 in A2018: s8: הסבר את המונח \"הערכת שווי מהותית מאוד.\" [solution keyword hits (sub-item): הערכות שווי, הערכת שווי] | adjacent sessions tested and rejected (content/topic mismatch): סתיו 2017, סתיו 2019 | s8 explains 'הערכת שווי מהותית מאוד' per regulation 8B of the securities regulations (disclosure/attachment of material valuations); no explicit תקן 545 citation in the solution, but it is valuation/fair-value disclosure content."
+ },
+ {
+  "topic": "fairvalue",
+  "row": "תקן 545 (מדידה וגילוי של שווי הוגן)",
+  "refAsPrinted": "חורף 2016, שאלה 10, סעיף 7",
+  "sessionLabelAsPrinted": "חורף 2016",
+  "year": 2016,
+  "question": 10,
+  "subItems": [
+   7
+  ],
+  "highlighted": false,
+  "resolved": {
+   "file": "council_winter.txt",
+   "year": 2016,
+   "session": "winter",
+   "caseId": "council-2016-winter-q10"
+  },
+  "confidence": "high",
+  "note": "mapping label 'חורף 2016' = printed label 'חורף 2016' (exam date 2017-01-12) | Q10 s7 in W2016: s7: כיצד על רואה החשבון המבקר לנהוג כאשר קיימות שיטות חליפיות אפשריות למדידת שווי הוגן של נכסים והתחייבויות הנכללי [solution keyword hits (question(whole; sub-item heading not machine-detectable)): שווי הוגן] | adjacent sessions tested and rejected (content/topic mismatch): חורף 2015, סתיו 2017"
+ },
+ {
+  "topic": "fairvalue",
+  "row": "תקן 545 (מדידה וגילוי של שווי הוגן)",
+  "refAsPrinted": "אביב 2015, שאלה 6",
+  "sessionLabelAsPrinted": "אביב 2015",
+  "year": 2015,
+  "question": 6,
+  "subItems": null,
+  "highlighted": false,
+  "resolved": {
+   "file": "council_spring.txt",
+   "year": 2015,
+   "session": "summer",
+   "caseId": "council-2015-summer-q6"
+  },
+  "confidence": "high",
+  "note": "mapping label 'אביב 2015' = compilation label 'קיץ 2015' (exam date 2015-08-05; the compilation prints 'קיץ' for this session) | Q6 in U2015: הערכת שווי למטרת דיווח כספי [solution keyword hits (question): הערכות שווי, הערכת שווי, שווי הוגן]"
+ },
+ {
+  "topic": "internal",
+  "row": "תקן 610 (התחשבות בעבודת הביקורת הפנימית)",
+  "refAsPrinted": "אביב 2022, שאלה 4, סעיף 2",
+  "sessionLabelAsPrinted": "אביב 2022",
+  "year": 2022,
+  "question": 4,
+  "subItems": [
+   2
+  ],
+  "highlighted": true,
+  "resolved": {
+   "file": "council_spring.txt",
+   "year": 2022,
+   "session": "spring",
+   "caseId": "council-2022-spring-q4"
+  },
+  "confidence": "high",
+  "note": "mapping label 'אביב 2022' = printed label 'אביב 2022' (exam date 2022-08-17) | Q4 s2 in P2022: s2: האם רואה החשבון המבקר חייב לקרוא את הדוחות של המבקר הפנימי של חברה המבוקרת על ידו כאשר הוא מחליט לא לה סתייע ב [solution keyword hits (sub-item): 610, הביקורת הפנימית]"
+ },
+ {
+  "topic": "internal",
+  "row": "תקן 610 (התחשבות בעבודת הביקורת הפנימית)",
+  "refAsPrinted": "אביב 2021, שאלה 4, סעיף 3",
+  "sessionLabelAsPrinted": "אביב 2021",
+  "year": 2021,
+  "question": 4,
+  "subItems": [
+   3
+  ],
+  "highlighted": true,
+  "resolved": {
+   "file": "council_spring.txt",
+   "year": 2021,
+   "session": "spring",
+   "caseId": "council-2021-spring-q4"
+  },
+  "confidence": "high",
+  "note": "mapping label 'אביב 2021' = printed label 'אביב 2021' (exam date 2021-08-11) | Q4 s3 in P2021: s3: מהם הקריטריונים שיש להביאם בחשבון כאשר רואה החשבון המבקר מבצע הערכה מקדמית של פעילות הביקורת הפנימית בחברה? [solution keyword hits (sub-item): 610, הביקורת הפנימית]"
+ },
+ {
+  "topic": "internal",
+  "row": "תקן 610 (התחשבות בעבודת הביקורת הפנימית)",
+  "refAsPrinted": "אביב 2019, שאלה 4, סעיף 6",
+  "sessionLabelAsPrinted": "אביב 2019",
+  "year": 2019,
+  "question": 4,
+  "subItems": [
+   6
+  ],
+  "highlighted": false,
+  "resolved": {
+   "file": "council_spring.txt",
+   "year": 2019,
+   "session": "spring",
+   "caseId": "council-2019-spring-q4"
+  },
+  "confidence": "high",
+  "note": "mapping label 'אביב 2019' = printed label 'אביב 2019' (exam date 2019-08-08) | Q4 s6 in P2019: s6: אילו נושאים יבחן רואה החשבון המבקר בבואו להעריך את עבודתו של המבקר הפנימי כאשר בכוונתו להסתייע בעבודה זו? [solution keyword hits (sub-item): הביקורת הפנימית]"
+ },
+ {
+  "topic": "prospectus",
+  "row": "תקן 920 (הסכמה)",
+  "refAsPrinted": "אביב 2021, שאלה 6",
+  "sessionLabelAsPrinted": "אביב 2021",
+  "year": 2021,
+  "question": 6,
+  "subItems": null,
+  "highlighted": true,
+  "resolved": {
+   "file": "council_spring.txt",
+   "year": 2021,
+   "session": "spring",
+   "caseId": "council-2021-spring-q6"
+  },
+  "confidence": "high",
+  "note": "mapping label 'אביב 2021' = printed label 'אביב 2021' (exam date 2021-08-11) | Q6 in P2021: מכתב הסכמה של רואה חשבון להכללת דוחות שלו בתשקיף [solution keyword hits (question): 920, הסכמה, תשקיף]"
+ },
+ {
+  "topic": "prospectus",
+  "row": "תקן 920 (הסכמה)",
+  "refAsPrinted": "אביב 2019, שאלה 4, סעיף 7",
+  "sessionLabelAsPrinted": "אביב 2019",
+  "year": 2019,
+  "question": 4,
+  "subItems": [
+   7
+  ],
+  "highlighted": true,
+  "resolved": {
+   "file": "council_spring.txt",
+   "year": 2019,
+   "session": "spring",
+   "caseId": "council-2019-spring-q4"
+  },
+  "confidence": "high",
+  "note": "mapping label 'אביב 2019' = printed label 'אביב 2019' (exam date 2019-08-08) | Q4 s7 in P2019: s7: מהי רשימת המצגים הבסיסיים אשר בהעדרם לא יוכל רואה החשבון המבקר לתת הסכמה להכללת דוחות שלו ב \"מסמך הצעה?\" [solution keyword hits (sub-item): הסכמה]"
+ },
+ {
+  "topic": "prospectus",
+  "row": "תקן 920 (הסכמה)",
+  "refAsPrinted": "חורף 2016, שאלה 10, סעיף 9",
+  "sessionLabelAsPrinted": "חורף 2016",
+  "year": 2016,
+  "question": 10,
+  "subItems": [
+   9
+  ],
+  "highlighted": false,
+  "resolved": {
+   "file": "council_winter.txt",
+   "year": 2016,
+   "session": "winter",
+   "caseId": "council-2016-winter-q10"
+  },
+  "confidence": "high",
+  "note": "mapping label 'חורף 2016' = printed label 'חורף 2016' (exam date 2017-01-12) | Q10 s9 in W2016: s9: הסב ר מהותו ותוכנו של \"מכתב הסכמה\"של רואה חשבון מבקר הנכלל בתשקיף הנפקה של תאגיד מדווח? [solution keyword hits (question(whole; sub-item heading not machine-detectable)): מכתב הסכמה, תשקיף] | adjacent sessions tested and rejected (content/topic mismatch): חורף 2015, סתיו 2017"
+ },
+ {
+  "topic": "tax",
+  "row": "פרקטיקה במיסים",
+  "refAsPrinted": "חורף 2022, שאלה 4, סעיף 5",
+  "sessionLabelAsPrinted": "חורף 2022",
+  "year": 2022,
+  "question": 4,
+  "subItems": [
+   5
+  ],
+  "highlighted": true,
+  "resolved": {
+   "file": "council_winter.txt",
+   "year": 2022,
+   "session": "autumn",
+   "caseId": "council-2022-autumn-q4"
+  },
+  "confidence": "high",
+  "note": "mapping label 'חורף 2022' = compilation label 'סתיו 2022' (exam date 2023-01-12; the compilation prints 'סתיו' for this session) | Q4 s5 in A2022: s5: באי לו מקרים על רואה חשבון להימנע מלהיות קשור בדוח או ב הודעה שנמסרו ל רשות המיסים על ידי לקוחו? [solution keyword hits (sub-item): מיסים] | adjacent sessions tested and rejected (content/topic mismatch): סתיו 2021, סתיו 2023"
+ },
+ {
+  "topic": "tax",
+  "row": "פרקטיקה במיסים",
+  "refAsPrinted": "סתיו 2021, שאלה 3",
+  "sessionLabelAsPrinted": "סתיו 2021",
+  "year": 2021,
+  "question": 3,
+  "subItems": null,
+  "highlighted": true,
+  "resolved": {
+   "file": "council_winter.txt",
+   "year": 2021,
+   "session": "autumn",
+   "caseId": "council-2021-autumn-q3"
+  },
+  "confidence": "high",
+  "note": "mapping label 'סתיו 2021' = printed label 'סתיו 2021' (exam date 2022-01-12) | Q3 in A2021: ביקורת הנתונים השונים המדווחים לרשויות המס במסגרת ביקורת דוחות כספיים [solution keyword hits (question): דוח ההתאמה, מיסים, מס הכנסה, מסים, רשות המס] | adjacent sessions tested and rejected (content/topic mismatch): סתיו 2020, סתיו 2022"
+ },
+ {
+  "topic": "tax",
+  "row": "פרקטיקה במיסים",
+  "refAsPrinted": "אביב 2020, שאלה 5",
+  "sessionLabelAsPrinted": "אביב 2020",
+  "year": 2020,
+  "question": 5,
+  "subItems": null,
+  "highlighted": true,
+  "resolved": {
+   "file": "council_spring.txt",
+   "year": 2020,
+   "session": "spring",
+   "caseId": "council-2020-spring-q5"
+  },
+  "confidence": "high",
+  "note": "mapping label 'אביב 2020' = printed label 'אביב 2020' (exam date 2020-08-24) | Q5 in P2020: ביקורת דוח ההתאמה לצרכי מס [solution keyword hits (question): דוח ההתאמה, מסים]"
+ },
+ {
+  "topic": "tax",
+  "row": "פרקטיקה במיסים",
+  "refAsPrinted": "אביב 2019, שאלה 8, סעיף 2",
+  "sessionLabelAsPrinted": "אביב 2019",
+  "year": 2019,
+  "question": 8,
+  "subItems": [
+   2
+  ],
+  "highlighted": false,
+  "resolved": {
+   "file": "council_spring.txt",
+   "year": 2019,
+   "session": "spring",
+   "caseId": "council-2019-spring-q8"
+  },
+  "confidence": "high",
+  "note": "mapping label 'אביב 2019' = printed label 'אביב 2019' (exam date 2019-08-08) | Q8 s2 in P2019: s2: פרט והסבר מה יוודא רואה החשבון המבקר אם בדוח ההתאמה לצרכי מס של החברה שאותו הוא מבקר תואמו הוצאות הנסיעה לחו ל [solution keyword hits (sub-item): דוח ההתאמה, מיסים]"
+ },
+ {
+  "topic": "tax",
+  "row": "פרקטיקה במיסים",
+  "refAsPrinted": "סתיו 2017, שאלה 1",
+  "sessionLabelAsPrinted": "סתיו 2017",
+  "year": 2017,
+  "question": 1,
+  "subItems": null,
+  "highlighted": false,
+  "resolved": {
+   "file": "council_winter.txt",
+   "year": 2017,
+   "session": "autumn",
+   "caseId": "council-2017-autumn-q1"
+  },
+  "confidence": "high",
+  "note": "mapping label 'סתיו 2017' = printed label 'סתיו 2017' (exam date 2018-01-15) | Q1 in A2017: ביקורת על דוח ההתאמה לצרכי מס [solution keyword hits (question): דוח ההתאמה, מיסים, מס הכנסה, מסים] | adjacent sessions tested and rejected (content/topic mismatch): חורף 2016, סתיו 2018"
+ },
+ {
+  "topic": "tax",
+  "row": "פרקטיקה במיסים",
+  "refAsPrinted": "אביב 2017, שאלה 5, סעיף 7",
+  "sessionLabelAsPrinted": "אביב 2017",
+  "year": 2017,
+  "question": 5,
+  "subItems": [
+   7
+  ],
+  "highlighted": false,
+  "resolved": {
+   "file": "council_spring.txt",
+   "year": 2017,
+   "session": "spring",
+   "caseId": "council-2017-spring-q5"
+  },
+  "confidence": "high",
+  "note": "mapping label 'אביב 2017' = printed label 'אביב 2017' (exam date 2017-08-06) | Q5 s7 in P2017: s7: באיזה מקרים על רואה חשבון להימנע מלהיות קשור בדוח או ב הודעה שנמסרו ל רשות המיסים על ידי לקוחו? [solution keyword hits (question(whole; sub-item heading not machine-detectable)): מסים] | Same text as A2022 Q4 s5 (lecturer lists both under tax practice)."
+ },
+ {
+  "topic": "tax",
+  "row": "פרקטיקה במיסים",
+  "refAsPrinted": "סתיו 2016, שאלה 3",
+  "sessionLabelAsPrinted": "סתיו 2016",
+  "year": 2016,
+  "question": 3,
+  "subItems": null,
+  "highlighted": false,
+  "resolved": {
+   "file": "council_winter.txt",
+   "year": 2016,
+   "session": "winter",
+   "caseId": "council-2016-winter-q3"
+  },
+  "confidence": "high",
+  "note": "mapping label 'סתיו 2016' = compilation label 'חורף 2016' (exam date 2017-01-12; the compilation prints 'חורף' for this session) | Q3 in W2016: סוגיות במסים [solution keyword hits (question): דוח ההתאמה, מס הכנסה, מסים, רשות המס] | adjacent sessions tested and rejected (content/topic mismatch): חורף 2015, סתיו 2017"
+ },
+ {
+  "topic": "tax",
+  "row": "פרקטיקה במיסים",
+  "refAsPrinted": "אביב 2016, שאלה 10 סעיף 3",
+  "sessionLabelAsPrinted": "אביב 2016",
+  "year": 2016,
+  "question": 10,
+  "subItems": [
+   3
+  ],
+  "highlighted": false,
+  "resolved": {
+   "file": "council_spring.txt",
+   "year": 2016,
+   "session": "summer",
+   "caseId": "council-2016-summer-q10"
+  },
+  "confidence": "high",
+  "note": "mapping label 'אביב 2016' = compilation label 'קיץ 2016' (exam date 2016-08-04; the compilation prints 'קיץ' for this session) | Q10 s3 in U2016: s3: האם רשאי/חייב רואה חשבון מבקר לבטל את חוות דעתו על דוח ההתאמה לצרכי מסים שהוגש לרשות למסים, ולהודיע לרשות למסי [solution keyword hits (question(whole; sub-item heading not machine-detectable)): מיסים, מסים]"
+ }
+]

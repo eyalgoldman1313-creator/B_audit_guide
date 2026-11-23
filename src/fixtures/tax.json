@@ -1,0 +1,8 @@
+{
+ "id": "tax", "eyebrow": "הנחיית הלשכה", "title": "פרקטיקה במיסים",
+ "lead": "ביקורת דוח ההתאמה למס.",
+ "articles": [
+  {"id":"tax-recon","code":"מיסים","title":"דוח התאמה למס","purpose":"דוח התאמה.","summary":["פסקה."],
+   "caseIds":["council-2018-autumn-q2","council-2019-spring-q3"],"sources":["הנחיה, סעיף 3"]}
+ ]
+}

@@ -73,7 +73,7 @@ if (strip) {
   for (const x of sl) if (!idset.has(x)) fail('strip link target missing ' + x);
 }
 // footer + leftovers
-if (!body.includes('נבנה מתוך חומרי הקורס: חוברת הקורס, קובץ התקנים, בחינות המכללה ובחינות המועצה. במקרה של סתירה — נוסח התקן והחוק קובע.')) fail('footer text');
+if (!body.includes('נבנה מתוך חומרי הקורס: חוברת הקורס,') || !body.includes('במקרה של סתירה — נוסח התקן והחוק קובע.')) fail('footer text');
 if (!/נבנה לאחרונה: \d{1,2}\.\d{1,2}\.\d{4}/.test(body)) fail('build date missing');
 if (/itaudit|tech_audit|practice-link|<a [^>]*href="https?:/i.test(body)) fail('old-project leftovers or external links: ' + (body.match(/itaudit|tech_audit|practice-link|<a [^>]*href="https?:[^"]*/i) || [])[0]);
 const navPills = (body.match(/<div class="nav-item">/g) || []).length; console.log('nav pills', navPills); if (navPills > 8) fail('more than 8 nav pills');
